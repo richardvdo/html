@@ -1,4 +1,4 @@
-<?php require_once('teleinfo_func_v3.php'); ?>
+<?php require_once('teleinfo_func_maison.lithium.php'); ?>
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 

@@ -3,7 +3,7 @@
 
 header('Content-type: text/html; charset=utf-8');
 
-require_once('teleinfo_func_v3.php');
+require_once('teleinfo_func_v4.php');
 
 collectTeleinfoData();
 
